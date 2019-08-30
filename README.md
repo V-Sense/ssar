@@ -1,1 +1,1 @@
-# SimultaneousSegmentationAndRecognition
+# Simultaneous Segmentation and Recognition
